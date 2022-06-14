@@ -4,7 +4,7 @@ html {
     width: 100%;
     box-sizing: border-box }
 @font-face {
-  font-family: myFirstFont;
+  font-family: Poppins;
   src: url(Poppins-Bold.ttf);
 }
 *, *:before, *:after {
