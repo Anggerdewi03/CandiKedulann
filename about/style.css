@@ -1,21 +1,20 @@
 *
-@font-face {
-  font-family: Poppins;
-  src: url(Poppins-Bold.ttf);}
-
-body {
-  font-family: Poppins;
-  margin: 0;
-}
-
 html {
   box-sizing: border-box;
 }
+
+@font-face {
+  font-family: Poppins;
+  src: url(Poppins-Bold.ttf);}
 
 *, *:before, *:after {
   box-sizing: inherit;
 }
 
+body {
+  font-family: Poppins;
+  margin: 0;
+}
 .column {
   float: left;
   width: 50%;
