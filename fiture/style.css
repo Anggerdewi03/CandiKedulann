@@ -3,14 +3,18 @@ html{
     width: 100%;
     box-sizing: border-box;
 }
+@font-face {
+  font-family: Poppins;
+  src: url(Poppins-Bold.ttf);}
 
 *, *:before, *:after {
   box-sizing: inherit;
 }
+
 .item3 {
     margin: 0;
     padding: 0;
-    font-family: "Poppins";
+    font-family: Poppins;
 }
 
 .item3 .judul h1 {
