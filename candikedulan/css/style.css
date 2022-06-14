@@ -6,18 +6,24 @@ html {
   margin-bottom: 0;
   box-sizing: border-box;
 }
-
+@font-face {
+  font-family: Poppins;
+  src: url(Poppins-Bold.ttf);
+}
 *, *:before, *:after {
   box-sizing: inherit;
 }
-
+body {
+    margin:0;
+    padding:0;
+    font-family: Poppins;}
 .item2 {
   margin-left: auto;
   margin-right: auto;
   padding: 0;
   width: 100%;
   height: 100%;
-  font-family: "Poppins";
+  font-family: Poppins;
 }
 
 .item2 .judul h1 {
