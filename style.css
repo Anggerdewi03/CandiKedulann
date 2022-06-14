@@ -3,10 +3,11 @@ html {
     scroll-behavior: smooth;
     width: 100%;
     box-sizing: border-box }
+
 @font-face {
   font-family: Poppins;
-  src: url(Poppins-Bold.ttf);
-}
+  src: url(Poppins-Bold.ttf);}
+
 *, *:before, *:after {
     box-sizing: inherit;
   }
