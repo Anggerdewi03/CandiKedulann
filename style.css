@@ -2,8 +2,11 @@
 html {
     scroll-behavior: smooth;
     width: 100%;
-    box-sizing: border-box;
+    box-sizing: border-box; 
   }
+@font_face {
+    font-family: Poppins;
+    src: url(Poppins-Bold.ttf)}
 *, *:before, *:after {
     box-sizing: inherit;
   }
