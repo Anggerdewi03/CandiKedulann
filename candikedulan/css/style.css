@@ -28,13 +28,10 @@ body {
 
 .item2 .judul h1 {
   color:  rgb(0, 92, 170);
-  padding: 20px;
+  padding: 0px;
   font-size: 48px;
   text-shadow: rgb(255, 214, 0) 4px 4px 4px;box-sizing: border-box;
 }
-
-*, *:before, *:after {
-  box-sizing: inherit;
 
 }
 .item2 a {
